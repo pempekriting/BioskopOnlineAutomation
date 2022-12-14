@@ -42,6 +42,3 @@ What things you need to install:
 ## Report
 
 You can check the report [here](https://pempekriting.github.io/BioskopOnlineAutomation/report/cucumber-html-reports/overview-features.html)
-
-Also for the local side terminal results
-![](evidence/img.png)
