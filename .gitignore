@@ -1,0 +1,8 @@
+build
+/.gradle
+.idea
+target
+target/zip-with-dependencies.zip
+webdriver
+*.zip
+report
